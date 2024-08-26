@@ -3,6 +3,16 @@ entries:
   demo-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-08-26T14:57:34.379838821Z"
+    description: A Helm chart for Kubernetes
+    digest: 4d09e60cc6f42b3326ace07491556727bd0689de435338a393caea714c7d8c89
+    name: demo-chart-test
+    type: application
+    urls:
+    - https://github.com/sddruid/container_registry/releases/download/demo-chart-test-0.1.1/demo-chart-test-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-08-26T11:41:37.184015261Z"
     description: A Helm chart for Kubernetes
     digest: f0546ab09e261c84943a79b130cff63041defa351c4c86a38d1952e56a58b180
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/sddruid/container_registry/releases/download/demo-chart-test-0.1.0/demo-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-26T11:41:37.184023927Z"
+generated: "2024-08-26T14:57:34.37987034Z"
